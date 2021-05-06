@@ -24,4 +24,5 @@ brew install Formulae/swift-format@5.1
 brew install Formulae/swift-format@5.2
 brew install Formulae/swift-format@5.3
 brew install Formulae/swift-format@5.4
+brew install Formulae/swift-format@latest
 ```
