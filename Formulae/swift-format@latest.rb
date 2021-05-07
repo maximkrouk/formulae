@@ -1,4 +1,4 @@
-class SwiftFormatAT54 < Formula
+class SwiftFormatATLatest < Formula
     desc "`swift-format` provides the formatting technology for SourceKit-LSP and the building blocks for doing code formatting transformations."
     homepage "https://github.com/apple/swift-format"
     url "https://github.com/apple/swift-format.git", :branch => "main"
