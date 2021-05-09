@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class SwiftFormatAT54 < Formula
-  desc "`Code formatter, based on SourceKit-LSP."
+  desc "`Code formatter, based on SourceKit-LSP"
   homepage "https://github.com/apple/swift-format"
   url "https://github.com/apple/swift-format.git", branch: "swift-5.4-branch"
   version "5.4"
