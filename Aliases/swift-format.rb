@@ -1,0 +1,1 @@
+../Formulae/swift-format.rb
